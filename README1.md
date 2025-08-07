@@ -51,9 +51,6 @@ This is a console-based Budget Tracker application built in Python. It allows us
 
 ## Example `transactions.txt` Format
 ```
-income|1000.0|Salary|Monthly paycheck|2025-08-07 10:15:00
-expense|50.0|Food|Groceries|2025-08-07 10:16:00
+income|1000.0|Salary|Monthly paycheck|2025-08-07 11:10:00
+expense|50.0|Food|Groceries|2025-08-07 11:10:00
 ```
-
-## License
-This project is open-source and available under the MIT License.
